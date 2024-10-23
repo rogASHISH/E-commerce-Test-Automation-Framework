@@ -70,8 +70,8 @@ mvn clean install
 ```
 
 ## Test Data Setup
-1. Navigate to `src/test/resources/`
-2. Open `testData.xlsx`
+1. Navigate to `src/test/TestCases/`
+2. Open `products.xlsx`
 3. Add your test data in the following format:
 
 | product | brand  | 
